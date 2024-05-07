@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f8853363e6a44c15be76.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sokoban",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Sokoban::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sokoban-Debug-8abf4f7217dea090c871.json",
+					"name" : "Sokoban",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sokoban_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sokoban_autogen-Debug-de50729b98563a8121d2.json",
+					"name" : "Sokoban_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sokoban_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sokoban_autogen_timestamp_deps-Debug-5811f88b32099769bd00.json",
+					"name" : "Sokoban_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/SokobanGame/build-Sokoban-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "D:/SokobanGame/Sokoban"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
